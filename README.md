@@ -1,2 +1,3 @@
 # hello-world
-It's a brand new Repository, can't wait to fill it.
+It's my new Repository, can't wait to fill it.
+My name is Rabea Zioud, Physical Therapist, Entrepreneur and more. 
